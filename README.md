@@ -5,21 +5,21 @@
 Below are some selected projects:
 
 ### Research
-| Repository Name | Description |
-|---|---|
-| [llm_reasoning](https://github.com/Jakhongir0103/llm_reasoning) | Research on large language model reasoning for overthinking |
-| [multimodal_cot](https://github.com/Jakhongir0103/multimodal_cot) | Multimodal Chain-of-Thought reasoning implementation |
-| [verl](https://github.com/Jakhongir0103/verl) | Extension of VeRL to implementation of multi-turn RL for Multimodal Modals |
+| Repository Name | Description | Year |
+|---|---|---|
+| [llm_reasoning](https://github.com/Jakhongir0103/llm_reasoning) | Research on large language model reasoning for overthinking | 2025 |
+| [multimodal_cot](https://github.com/Jakhongir0103/multimodal_cot) | Multimodal Chain-of-Thought reasoning implementation | 2025 |
+| [verl](https://github.com/Jakhongir0103/verl) | Extension of VeRL to implementation of multi-turn RL for Multimodal Modals | 2025 |
 
 ### MSc Projects
-| Repository Name | Description |
-|---|---|
-| [sft-dpo-rag-training](https://github.com/Jakhongir0103/sft-dpo-rag-training) | GalactiTA: Trained a 1B LLM with SFT, DPO, and RAG for scientific question answering 
-| [VLM-R1](https://github.com/Jakhongir0103/VLM-R1) | We Trained VLMs with GRPO to enhance visual question answering |
-| [Coin-segmentation-and-classification](https://github.com/Jakhongir0103/Coin-segmentation-and-classification) | Computer vision project for coin detection and classification |
-| [mountain-car-reinforcement-learning](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning) | It focuses on solving [mountain car problem](https://gymnasium.farama.org/environments/classic_control/mountain_car/) with different variations of Deep Q-Network (RL algorithm) |
-| [A-recipe-for-a-successful-tech-review-channel](https://github.com/Jakhongir0103/A-recipe-for-a-successful-tech-review-channel) | An in-depth analysis of YouTube Tech channels based on [YouNiverse](https://arxiv.org/pdf/2012.10378) dataset |
-| [datastory](https://github.com/Jakhongir0103/datastory) | Website of `A-recipe-for-a-successful-tech-review-channel` |
+| Repository Name | Description | Year |
+|---|---|---|
+| [VLM-R1](https://github.com/Jakhongir0103/VLM-R1) | We Trained VLMs with GRPO to enhance visual question answering | 2025 |
+| [sft-dpo-rag-training](https://github.com/Jakhongir0103/sft-dpo-rag-training) | GalactiTA: Trained a 1B LLM with SFT, DPO, and RAG for scientific question answering | 2024 |
+| [Coin-segmentation-and-classification](https://github.com/Jakhongir0103/Coin-segmentation-and-classification) | Computer vision project for coin detection and classification | 2024 |
+| [mountain-car-reinforcement-learning](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning) | It focuses on solving [mountain car problem](https://gymnasium.farama.org/environments/classic_control/mountain_car/) with different variations of Deep Q-Network (RL algorithm) | 2024 |
+| [A-recipe-for-a-successful-tech-review-channel](https://github.com/Jakhongir0103/A-recipe-for-a-successful-tech-review-channel) | An in-depth analysis of YouTube Tech channels based on [YouNiverse](https://arxiv.org/pdf/2012.10378) dataset | 2023 |
+| [datastory](https://github.com/Jakhongir0103/datastory) | Website of `A-recipe-for-a-successful-tech-review-channel` | 2023 |
 
 <!--
 ### BSc/MSc Course Works
@@ -48,11 +48,11 @@ Below are some selected projects:
 -->
 
 ### Miscellaneous
-| Repository Name | Description |
-|---|---|
-| [llm-efficient-training](https://github.com/Jakhongir0103/llm-efficient-training) | Efficient LLM training implementation (Hackathon - 2nd place🎉) |
-| [vlms-for-satellite-hack](https://github.com/Jakhongir0103/vlms-for-satellite-hack) | AI-powered platform that combines LLM and CV to analyze satellite images (Hackathon - 1st place🎉) |
-| [virtual-me](https://github.com/Jakhongir0103/virtual-me) | Virtual "ME", who can answer question about myself |
+| Repository Name | Description | Year|
+|---|---|---|
+| [llm-efficient-training](https://github.com/Jakhongir0103/llm-efficient-training) | Efficient LLM training implementation (Hackathon - 2nd place🎉) | 2025 |
+| [vlms-for-satellite-hack](https://github.com/Jakhongir0103/vlms-for-satellite-hack) | AI-powered platform that combines LLM and CV to analyze satellite images (Hackathon - 1st place🎉) | 2024 |
+| [virtual-me](https://github.com/Jakhongir0103/virtual-me) | Virtual "ME", who can answer question about myself | 2024-present |
 
 ## 🛠️ Technical Skills
 
