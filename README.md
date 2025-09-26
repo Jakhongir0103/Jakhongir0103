@@ -8,7 +8,7 @@ Below are some selected projects:
 | Repository Name | Description | Year |
 |---|---|---|
 | [llm_reasoning](https://github.com/Jakhongir0103/llm_reasoning) | Research on large language model reasoning for overthinking | 2025 |
-| [multimodal_cot](https://github.com/Jakhongir0103/multimodal_cot) | Multimodal Chain-of-Thought reasoning implementation | 2025 |
+| [multimodal_cot](https://github.com/Jakhongir0103/multimodal_cot) | Multimodal Chain-of-Thought reasoning in 3 paradigms | 2025 |
 | [verl](https://github.com/Jakhongir0103/verl) | Extension of VeRL to implementation of multi-turn RL for Multimodal Modals | 2025 |
 
 ### MSc Projects
