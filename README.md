@@ -56,7 +56,7 @@ Below are some selected projects:
 
 ## 🛠️ Technical Skills
 
-**Deep Learning Frameworks**: PyTorch, Transformers (HuggingFace), vLLM, SGLang, VeRL \  
+**Deep Learning Frameworks**: PyTorch, Transformers (HuggingFace), vLLM, SGLang, VeRL \
 **Data Science**: Pandas, NumPy, Matplotlib \
 **HPC Schedulers**: SLURM, RunAI
 
